@@ -1,0 +1,4 @@
+*.pdf
+*.rar
+*.csv
+__pycache__/
