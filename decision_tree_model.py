@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 11 15:23:42 2025
-
-Refactored to expose a reusable decision tree training function.
-"""
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier, plot_tree

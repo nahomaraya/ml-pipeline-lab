@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 11 15:22:50 2025
-
-Refactored to expose a reusable preprocessing function for library-style usage.
-"""
-
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split

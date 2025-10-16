@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 14 14:33:46 2025
 
-Refactored to expose a reusable linear regression training function.
-"""
 import pandas as pd
 import statsmodels.api as sm
 

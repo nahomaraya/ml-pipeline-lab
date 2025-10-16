@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 11 15:24:19 2025
-
-Refactored to expose a reusable logistic regression training function.
-"""
-
 import pandas as pd
 import statsmodels.api as sm
 from sklearn.linear_model import LogisticRegression
